@@ -1,0 +1,12 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.german.configuration.data.DataSourceMysql",
+      "name": "spring.datasource",
+      "sourceMethod": "public javax.sql.DataSource DataSourceM() ",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}

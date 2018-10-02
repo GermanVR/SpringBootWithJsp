@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: inventario
+Implementation-Version: 1.0
+Built-By: Darqko
+Implementation-Vendor-Id: com.german
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/inventario/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
